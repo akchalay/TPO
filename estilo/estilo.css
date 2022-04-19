@@ -1,0 +1,63 @@
+:root{
+    font-size: 16px;
+
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+}
+h1{
+    font-size: 3rem;
+}
+nav{
+    background-color: bisque;
+}
+section{
+    background-color: burlywood;
+    width: 40rem;
+    float: left;
+    height: 22rem;
+}
+article{
+    background-color: cadetblue;
+    width: 35rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+.div_article{
+    border: 1rem;
+    border-color: black;
+    border-style: dashed;
+    overflow: hidden;
+}
+ul{
+    list-style-type: none;
+}
+li,a{
+    text-decoration: none;
+    padding: 5px;
+    
+}
+aside{
+    background-color: blueviolet;
+    width: 12rem;
+    float: left;
+    height: 22rem;
+
+}
+.filtro01{
+    background-color: chocolate;
+    margin: 0.5rem;
+}
+footer{
+    background-color: red;
+    clear: both;
+}
+.iconos_footer{
+    width: 1rem;
+}
